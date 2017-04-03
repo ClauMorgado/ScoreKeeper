@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="title">Football Match</string>
+    <string name="teamA_name">Portugal</string>
+    <string name="teamB_Name">Spain</string>
+    <string name="goal_title">Goals</string>
+    <string name="teamA_score">0</string>
+    <string name="teamB_score">0</string>
+    <string name="penalty_title">Penalties</string>
+    <string name="button_1">Goal!</string>
+    <string name="button_2">Goal!</string>
+    <string name="button_3">Penalty!</string>
+    <string name="button_4">Penalty!</string>
+    <string name="reset_button">Reset</string>
+</resources>
+
